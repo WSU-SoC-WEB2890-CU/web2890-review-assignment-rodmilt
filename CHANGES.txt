@@ -1,1 +1,4 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+Made H4 in portfolio section a link to take user to projects.
+Changed H4 text color to lime so the link can be seen easily.
